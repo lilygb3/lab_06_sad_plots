@@ -100,22 +100,5 @@ fisheries %>%
     axis.text.y = element_text(size = 4)
   )
 ```
-```
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+### Exercise 4 (stretch goal - come back later!)

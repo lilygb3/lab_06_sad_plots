@@ -143,4 +143,6 @@ fisheries %>%
     ## Warning: Removed 4 rows containing missing values or values outside the scale range
     ## (`geom_col()`).
 
-![](lab-06_files/figure-gfm/fisheries-plot-1.png)<!-- --> \`\`\`
+![](lab-06_files/figure-gfm/fisheries-plot-1.png)<!-- -->
+
+### Exercise 4 (stretch goal - come back later!)
