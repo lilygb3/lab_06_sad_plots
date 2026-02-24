@@ -11,11 +11,11 @@ library(dsbox)
 library(mosaicData) 
 ```
 
-### Exercise 1: Instructional staff employment trends
-
 ``` r
 staff <- read_csv("data/instructional-staff.csv")
 ```
+
+### Exercise 1
 
 ``` r
 staff_long <- staff %>%
@@ -60,12 +60,9 @@ staff_long %>%
 
 ### Exercise 2
 
-Remove this text, and add your answer for Exercise 1 here. Add code
-chunks as needed. Don’t forget to label your code chunk. Do not use
-spaces in code chunk labels.
+One way to show that the proportion of part-time faculty have gone up
+over time compared to other staff types would be to combine the other
+staff types into a whole “other” category, or by full-time and grad
+students.
 
 ### Exercise 3
-
-…
-
-Add exercise headings as needed.
